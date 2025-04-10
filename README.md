@@ -5,7 +5,7 @@ Snake The iconic Snake game was first introduced in 1997 on Nokia devices. Devel
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
-    <title>Rắn Săn Mồi - Họ Tên: [Thay Tên Bạn] - MSSV: [Thay MSSV]</title>
+    <title>Rắn Săn Mồi
     <style>
         canvas {
             border: 1px solid black;
